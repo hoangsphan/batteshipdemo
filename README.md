@@ -30,7 +30,7 @@ Bạn sẽ cần Visual Studio (ví dụ: Visual Studio 2019 hoặc mới hơn) 
 
 1.  **Clone repository:**
     ```bash
-    git clone [URL-repository-cua-ban]
+    git clone [(https://github.com/hoangsphan/batteshipdemo/)]
     ```
 2.  **Mở Solution:**
     * Mở file `batteshipdemo.sln` bằng Visual Studio.
