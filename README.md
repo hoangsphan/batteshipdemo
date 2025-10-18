@@ -40,6 +40,4 @@ Bạn sẽ cần Visual Studio (ví dụ: Visual Studio 2019 hoặc mới hơn) 
     * Đặt project `battleship` làm project khởi động (Startup Project).
     * Nhấn `F5` hoặc nút "Start" để chạy game. Menu chính sẽ xuất hiện.
 
-## 📁 Cấu trúc dự án
 
-Dự án được tổ chức theo các thư mục để tách biệt các mối quan tâm (Separation of Concerns):
